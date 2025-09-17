@@ -1,7 +1,4 @@
 /*
- Wesley Hadnot
- 2/15/24
- Professor Raza 
  COSC 2436
  */
 import java.awt.Desktop;
